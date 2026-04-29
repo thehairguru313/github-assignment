@@ -12,3 +12,6 @@ git status
 git add .
 git commit -m "Initial commit"
 git log
+git status
+git add .
+git commit -m "Updated files"
